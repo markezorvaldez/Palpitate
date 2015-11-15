@@ -4,3 +4,7 @@ build/*
 .gradle
 gradle/*
 *.DS_Store
+xlsCache
+spectrogramCache.dat
+__pycache__
+*.py~
